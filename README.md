@@ -1,5 +1,5 @@
 # Predicting Boston housing prices
-We use `DecisionTreeRegressor` to predict the median housing prices for various suburbs in Boston. Along the way, we also demonstrate various model selection and tuning techniques for picking the best model
+We use `DecisionTreeRegressor` to predict the median housing prices for various suburbs in Boston. Along the way, we also demonstrate various model selection and tuning techniques for picking the best model. In the end, we provide a critique on making the model better
 
 ## Documentation
 
